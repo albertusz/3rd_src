@@ -18,3 +18,5 @@ https://www.freetype.org/
 Open-Asset-Importer: to load 3d file format
 https://github.com/assimp/assimp
 
+PugiXML: light weight xml parser
+https://pugixml.org/
