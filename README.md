@@ -29,3 +29,6 @@ https://github.com/g-truc/gli
 
 Visual Leak Detector: help to debug in Visual Studio C++
 https://github.com/oneiric/vld
+
+VMMap command line
+https://github.com/twpol/vmmap
